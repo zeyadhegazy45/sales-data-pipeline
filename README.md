@@ -27,3 +27,4 @@ This repository contains an Airflow DAG that implements a Sales Data Pipeline wi
 - Average sales per customer
 - These analyses are written as SQL queries executed via PostgreSQL operators.
 
+![Uploading Screenshot from 2024-12-15 19-15-50.png…]()
