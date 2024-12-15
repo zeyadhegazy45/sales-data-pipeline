@@ -6,9 +6,8 @@ This repository contains an Airflow DAG that implements a Sales Data Pipeline wi
 - Average sales per customer
 
 ## Prerequisites
-
-- 1. Apache Airflow
-- 2.PostgreSQL:
+1. Apache Airflow
+2. PostgreSQL
 - 3.Python Packages: 
 - apache-airflow
 - airflow.providers.postgres
